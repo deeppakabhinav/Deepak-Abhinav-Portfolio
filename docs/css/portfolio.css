@@ -255,6 +255,9 @@ body {
   text-align: center;
   transition: height 1s;
 }
+.layer a{
+  color:var(--colorforpurplebg);
+}
 .layer a:visited {
   color: var(--colorforpurplebg);
 }
